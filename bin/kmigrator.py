@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!C:/Python39/python.exe
 
 import sys
 
